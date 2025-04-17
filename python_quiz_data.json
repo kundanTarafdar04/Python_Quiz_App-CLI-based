@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Which of the following is used to define a function in Python?",
+        "options": [
+            "A) function",
+            "B) def",
+            "C) fun",
+            "D) define"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What is the output of print(2 ** 3)?",
+        "options": [
+            "A) 6",
+            "B) 8",
+            "C) 9",
+            "D) 5"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which keyword is used for loops in Python?",
+        "options": [
+            "A) for",
+            "B) repeat",
+            "C) foreach",
+            "D) loop"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which data type is immutable in Python?",
+        "options": [
+            "A) List",
+            "B) Dictionary",
+            "C) Set",
+            "D) Tuple"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "What will print(type(10)) return?",
+        "options": [
+            "A) <class 'float'>",
+            "B) <class 'str'>",
+            "C) <class 'int'>",
+            "D) <class 'bool'>"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+            "A) .pt",
+            "B) .pyth",
+            "C) .py",
+            "D) .pyt"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is used for comments in Python?",
+        "options": [
+            "A) //",
+            "B) <!-- -->",
+            "C) /* */",
+            "D) #"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "Which keyword is used to create a class in Python?",
+        "options": [
+            "A) function",
+            "B) def",
+            "C) class",
+            "D) method"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "How do you start a for loop in Python?",
+        "options": [
+            "A) for x in y:",
+            "B) foreach x in y",
+            "C) loop x through y",
+            "D) for each x of y"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which function is used to get the length of a list?",
+        "options": [
+            "A) count()",
+            "B) size()",
+            "C) length()",
+            "D) len()"
+        ],
+        "answer": "d"
+    },
+    {
+        "question": "How do you insert COMMENTS in Python code?",
+        "options": [
+            "A) // This is a comment",
+            "B) # This is a comment",
+            "C) <!-- This is a comment -->",
+            "D) ** This is a comment"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is NOT a Python data type?",
+        "options": [
+            "A) integer",
+            "B) string",
+            "C) real",
+            "D) list"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is used to handle exceptions in Python?",
+        "options": [
+            "A) try/except",
+            "B) catch/throw",
+            "C) do/catch",
+            "D) try/catch"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following will give the output 15?",
+        "options": [
+            "A) print(10 + 5)",
+            "B) print('10' + '5')",
+            "C) print('10 + 5')",
+            "D) print(10 - 5)"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is used to create a dictionary?",
+        "options": [
+            "A) {}",
+            "B) []",
+            "C) ()",
+            "D) <>"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "What will be the output of print('Hello' * 3)?",
+        "options": [
+            "A) HelloHelloHello",
+            "B) Hello3",
+            "C) Error",
+            "D) 3Hello"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following function is used to convert a string to lowercase?",
+        "options": [
+            "A) lower()",
+            "B) toLower()",
+            "C) down()",
+            "D) lowercase()"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is not a valid Python variable name?",
+        "options": [
+            "A) my_var",
+            "B) my-var",
+            "C) _myvar",
+            "D) myVar"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is used to get input from the user in Python?",
+        "options": [
+            "A) get()",
+            "B) read()",
+            "C) input()",
+            "D) scan()"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "What will be the output of print(5 == 5.0)?",
+        "options": [
+            "A) True",
+            "B) False",
+            "C) Error",
+            "D) None"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which method is used to add an element to a list?",
+        "options": [
+            "A) add()",
+            "B) insert()",
+            "C) append()",
+            "D) push()"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following operators is used for exponentiation in Python?",
+        "options": [
+            "A) ^",
+            "B) **",
+            "C) //",
+            "D) %%"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which of the following is used to define a block of code in Python?",
+        "options": [
+            "A) Brackets",
+            "B) Indentation",
+            "C) Parentheses",
+            "D) Quotes"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "What will be the output of print(bool(0))?",
+        "options": [
+            "A) True",
+            "B) False",
+            "C) 0",
+            "D) Error"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Which function is used to get the data type of a variable?",
+        "options": [
+            "A) typeof()",
+            "B) data()",
+            "C) type()",
+            "D) datatype()"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which keyword is used to define a conditional statement in Python?",
+        "options": [
+            "A) if",
+            "B) when",
+            "C) switch",
+            "D) case"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following is used to define a string in Python?",
+        "options": [
+            "A) '' or \"\"",
+            "B) , ,",
+            "C) ()",
+            "D) // //"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "What is the output of print(10 % 3)?",
+        "options": [
+            "A) 3",
+            "B) 0",
+            "C) 1",
+            "D) 10"
+        ],
+        "answer": "c"
+    },
+    {
+        "question": "Which of the following is used to create a set in Python?",
+        "options": [
+            "A) set()",
+            "B) {}",
+            "C) []",
+            "D) ()"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following can be used to iterate over a sequence in Python?",
+        "options": [
+            "A) for",
+            "B) while",
+            "C) both A and B",
+            "D) none"
+        ],
+        "answer": "c"
+    }
+]
