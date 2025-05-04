@@ -60,7 +60,7 @@ You've Visited [1/10]
 ---
 
 🙌 Credits
-Made with ❤️ by [KUNAL TARAFDAR]
+Made with ❤️ by [KUNDAN TARAFDAR]
 
 ---
 
